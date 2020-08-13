@@ -928,17 +928,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_dcrf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_dcrf.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_frame_algorithm.so \
-    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_iface_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_iface_modules.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_is.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_is.so \
-    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_isp_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_isp_modules.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_mct_shimlayer.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_mct_shimlayer.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_q3a_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_q3a_core.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_stats_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_algorithm.so \
-    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_atmel_at24c32e_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_atmel_at24c32e_eeprom.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_cac3_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_cac3_lib.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_chromaflash_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_chromaflash_lib.so \
-    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dbg.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_dcrf_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dcrf_lib.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_dummyalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dummyalgo.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_dw9761b_2d_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dw9761b_2d_eeprom.so \
@@ -1033,7 +1029,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_sunny_q13v06k_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sunny_q13v06k_eeprom.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_sunny_q5v41b_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sunny_q5v41b_eeprom.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_sw2d_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sw2d_lib.so \
-    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_thread_services.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_thread_services.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_tintless_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tintless_algo.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_trueportrait_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_trueportrait_lib.so \

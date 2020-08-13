@@ -25,6 +25,14 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_pp_buf_mgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_pp_buf_mgr.so \
 	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_pproc_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_pproc_modules.so \
 	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_vpe_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_vpe_module.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_iface_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_iface_modules.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_isp_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_isp_modules.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_wnr_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_wnr_module.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dbg.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera_thread_services.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_thread_services.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera_vpu_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_vpu_module.so \
+	vendor/samsung/j2y18lte/proprietary/vendor/lib/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor1.so \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/hw/vendor.trustonic.tee@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.tee@1.0-service \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/hw/vendor.trustonic.teeregistry@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.teeregistry@1.0-service \
 	vendor/samsung/j2y18lte/proprietary/vendor/etc/init/vendor.trustonic.tee@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.tee@1.0-service.rc \
