@@ -1311,13 +1311,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.samsung.hardware.wifi@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.wifi@1.0.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.samsung.security.sem@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.security.sem@1.0.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.samsung.security.skpm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.security.skpm@1.0.so \
-    vendor/samsung/j4primelte/proprietary/vendor/bin/hw/vendor.trustonic.tee@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.tee@1.0-service \
-    vendor/samsung/j4primelte/proprietary/vendor/bin/hw/vendor.trustonic.teeregistry@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.teeregistry@1.0-service \
-    vendor/samsung/j4primelte/proprietary/vendor/etc/init/vendor.trustonic.tee@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.tee@1.0-service.rc \
-    vendor/samsung/j4primelte/proprietary/vendor/etc/init/vendor.trustonic.teeregistry@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.teeregistry@1.0-service.rc \
-    vendor/samsung/j4primelte/proprietary/vendor/lib/vendor.samsung.security.wvkprov_server@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.security.wvkprov_server@1.0.so \
-    vendor/samsung/j4primelte/proprietary/vendor/lib/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.tee@1.0.so \
-    vendor/samsung/j4primelte/proprietary/vendor/lib/vendor.trustonic.teeregistry@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.teeregistry@1.0.so
+    vendor/samsung/msm8917-common/proprietary/vendor/bin/hw/vendor.trustonic.tee@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.tee@1.0-service \
+    vendor/samsung/msm8917-common/proprietary/vendor/bin/hw/vendor.trustonic.teeregistry@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.trustonic.teeregistry@1.0-service \
+    vendor/samsung/msm8917-common/proprietary/vendor/etc/init/vendor.trustonic.tee@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.tee@1.0-service.rc \
+    vendor/samsung/msm8917-common/proprietary/vendor/etc/init/vendor.trustonic.teeregistry@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.trustonic.teeregistry@1.0-service.rc \
+    vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.samsung.security.wvkprov_server@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.security.wvkprov_server@1.0.so \
+    vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.tee@1.0.so \
+    vendor/samsung/msm8917-common/proprietary/vendor/lib/vendor.trustonic.teeregistry@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.trustonic.teeregistry@1.0.so
     
 PRODUCT_PACKAGES += \
     libantradio \
