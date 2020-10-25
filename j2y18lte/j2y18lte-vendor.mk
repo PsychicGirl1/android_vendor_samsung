@@ -16,6 +16,6 @@
 
 PRODUCT_COPY_FILES += \
 	vendor/samsung/j2y18lte/proprietary/vendor/lib/libmmcamera2_sensor_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_sensor_modules.so
-        vendor/samsung/j2y18lte/proprietary/vendor/init/init.j2y18lte.rc:$(TARGET_COPY_OUT_SYSTEM)/lib/etc/init/init.j2y18lte.rc \
+        vendor/samsung/j2y18lte/proprietary/vendor/init/init.j2y18lte.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/init.j2y18lte.rc \
         vendor/samsung/j2y18lte/proprietary/vendor/vndk-sp-29/libcutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcutils.so \
         vendor/samsung/j2y18lte/proprietary/vendor/vndk-sp-29/libprocessgroup.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vndk-sp-29/libprocessgroup.so
